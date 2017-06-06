@@ -11,3 +11,13 @@ Challenges in Vanilla JS.
 - window global object
 - document.querySelectorAll();
 - element.classList property to add or remove classes
+
+### 02 Day: 06 June 2017
+
+- Date object
+- element.style.transform property
+- setInterval(function, time)
+- CSS transition
+- CSS transform
+
+
