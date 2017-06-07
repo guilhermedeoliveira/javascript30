@@ -20,4 +20,11 @@ Challenges in Vanilla JS.
 - CSS transition
 - CSS transform
 
+### 03 Day: 07 June 2017
+
+- CSS Variables var(--name)
+- document.documentElement.style.setProperty()
+- dataset object for all data-something attributes
+- Apply forEach method in each NodeList element returned by querySelectorAll()
+
 
