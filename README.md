@@ -27,4 +27,11 @@ Challenges in Vanilla JS.
 - dataset object for all data-something attributes
 - Apply forEach method in each NodeList element returned by querySelectorAll()
 
+### 04 Day: 13 June 2017
 
+- Array methods: filter(), map(), sort(), reduce()
+- console.table()
+- ES6 arrow functions
+- Ternary operator
+- Node.textContent
+- Destructuring assignment
