@@ -35,3 +35,7 @@ Challenges in Vanilla JS.
 - Ternary operator
 - Node.textContent
 - Destructuring assignment
+
+### 05 Day: 19 June 2017
+
+- Flexbox
