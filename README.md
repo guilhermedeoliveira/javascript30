@@ -39,3 +39,11 @@ Challenges in Vanilla JS.
 ### 05 Day: 19 June 2017
 
 - Flexbox
+
+### 06 Day: 23 June 2017
+
+- fetch API
+- .json() to transform raw fetched data
+- ES6 spread operator
+- Some regex
+
