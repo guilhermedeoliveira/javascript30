@@ -47,3 +47,7 @@ Challenges in Vanilla JS.
 - ES6 spread operator
 - Some regex
 
+### 06 Day: 24 June 2017
+
+- Array methods: some(), every(), find(), findIndex()
+- Turn variable into object to better console.log
